@@ -16,5 +16,5 @@ RAG Application implemented with
 📚 About
 This GitHub repository is presents the code in googlecolab notebook.
 
-🙏 Author
+🤖 Author
 Noor Aftab 
