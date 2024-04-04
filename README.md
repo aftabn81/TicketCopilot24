@@ -14,6 +14,12 @@ RAG Application implemented with
 - Helper Functions working with pandas
 - CSV
 - Visualized with seaborn
+  
+**Steps to Run the notebook**
+1. Create a Python 3.11 environment
+2. pip install jupyter so you can run the notebook
+3. pip install -r requirements.txt to install all the requirements
+4. Get your OpenAI API key to run in google colab. 
 
 **Next Planned Iterations:**
 - LlamaIndex implementation
